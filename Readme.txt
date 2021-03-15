@@ -1,9 +1,9 @@
 ﻿integrantes:
 
-Fabiola Castillo
+Fabiola Castillo https://github.com/fcastitt/Evaluacion_modulo_3_.git
 Paulina Gomez https://github.com/PauliGG/Evaluacion_modulo_3/
-Patricio Sanhueza
-Ramon Torres
+Patricio Sanhueza https://github.com/Xander9141/evaluacion_final_M3.git
+Ramon Torres  https://github.com/Xander9141/evaluacion_final_M3.git
 
 ***************
 
